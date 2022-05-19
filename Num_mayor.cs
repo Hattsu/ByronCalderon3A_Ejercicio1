@@ -1,6 +1,6 @@
 using System;
 
-namespace ByronCalderon3A_Ej1
+namespace ByronCalderon3A_Ejercicio1
 {
     public class Num_mayor
     {
