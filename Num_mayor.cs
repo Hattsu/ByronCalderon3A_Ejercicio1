@@ -23,10 +23,10 @@ namespace ByronCalderon3A_Ejercicio1
         {
             if (numero1 > numero2)
             {
-                Console.WriteLine(numero1+" es número mayor de los dos ingresados -> ("+numero1+", "+numero2+")");
+                Console.WriteLine(numero1+" es el número mayor de los dos ingresados -> ("+numero1+", "+numero2+")");
             }
             else{
-                Console.WriteLine(numero2+" es número mayor de los dos ingresados -> ("+numero1+", "+numero2+")");
+                Console.WriteLine(numero2+" es el número mayor de los dos ingresados -> ("+numero1+", "+numero2+")");
             }
         }
     }
