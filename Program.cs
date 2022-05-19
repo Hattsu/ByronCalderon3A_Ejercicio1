@@ -1,5 +1,5 @@
-﻿using System;
-namespace ByronCalderon3A_Ej1
+using System;
+namespace ByronCalderon3A_Ejercicio1
 {
     class Program 
     {
